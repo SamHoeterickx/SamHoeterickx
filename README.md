@@ -1,5 +1,4 @@
-## Hey, 
-I'm Sam Hoeterickx!
+## Hey, I'm Sam Hoeterickx!
 
 I'm a **Multimedia & Creative Technology** student turning ideas into full-stack reality.
 <br>
