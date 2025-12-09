@@ -1,6 +1,6 @@
 ## Hey, I'm Sam Hoeterickx!
 
-I'm a **Multimedia & Creative Technology** student turning ideas into full-stack reality.
+Student **Multimedia & Creative Technology** until 2026
 <br>
 <br>
 __Frontend__: React, Next.js, SCSS
